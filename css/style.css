@@ -106,12 +106,14 @@ p.lead {
   }
   #sideNav .navbar-brand {
     display: flex;
-    margin: 0 auto ;
+    margin-top: 40%;
+    margin-left: 12px;
    
   }
+  
   #sideNav .navbar-brand .img-profile {
     max-width: 15rem;
-    max-height: 15rem;
+    max-height: 18rem;
     text-align: left;
     border: 0.3rem solid rgb(10, 184, 4);
   }
