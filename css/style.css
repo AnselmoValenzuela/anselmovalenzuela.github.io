@@ -11,6 +11,16 @@
   background-color: rgb(39, 41, 40);
 }
 
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
